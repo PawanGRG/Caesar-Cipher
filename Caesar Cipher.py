@@ -1,7 +1,8 @@
-
-
 """
-Ceaser Cipher: User can either choose to encrypt, decrypt or brute force messages
+Ceaser Cipher: User can either choose to encrypt, decrypt or brute force
+attack to decipher messages that have been encrypted using the Caesar cipher.
+
+Users can also input a text file to encrypt, decrypt or brute force.
 
 """
 
