@@ -1,5 +1,5 @@
 # Caesar Cipher
-This was my first ever programming project, this program implements the Caesar cipher encryption and decryption techniques. It allows users to encrypt or decrypt messages using a specificed rotational value, users can also perform a brute force attach to decipher messages.
+This was my first ever programming project, this program implements the Caesar cipher encryption and decryption techniques. It allows users to encrypt or decrypt messages using a specificed rotational value, users can also perform a brute force attack to decipher messages.
 
 ## Features
 
